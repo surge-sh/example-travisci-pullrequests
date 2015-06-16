@@ -1,0 +1,21 @@
+{
+  "name": "@surge/example-travisci-pullrequests",
+  "version": "0.1.0",
+  "description": "An example using Travis CI to build pull request previews.",
+  "homepage": "https://surge.sh",
+  "repository": "https://github.com/surge-sh/example-travisci.git",
+  "license": "MIT",
+  "private": true,
+  "author": "Kenneth Ormandy <kenneth@surge.sh> (http://kennethormandy.com)",
+  "contributors": [
+    "Kenneth Ormandy <kenneth@surge.sh> (http://kennethormandy.com)",
+    "Brock Whitten   <brock@surge.sh>   (http://sintaxi.com)"
+  ],
+  "keywords": ["surge", "surge.sh", "example", "travis ci", "pull request", "static"],
+  "devDependencies": {
+    "surge": "latest"
+  },
+  "scripts": {
+    "test": "echo \"If you have tests, you could run them here\""
+  }
+}
